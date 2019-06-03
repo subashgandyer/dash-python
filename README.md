@@ -16,3 +16,6 @@ DAQ components (newly open-sourced!)
 ### How to view
 Open the browser and navigate to 
 `http://127.0.0.1:8050/`
+
+### Additional Information
+`https://dash.plot.ly/`
